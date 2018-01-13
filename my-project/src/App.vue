@@ -4,6 +4,8 @@
     <div>
       <router-link to="/">首页</router-link> |
       <router-link to="/Hi">Hi</router-link>
+      <router-link to="/Test1">学习Vue</router-link>
+      <router-link to="/Module">练习Vue方法</router-link>
     </div>
     <router-view/>
   </div>
